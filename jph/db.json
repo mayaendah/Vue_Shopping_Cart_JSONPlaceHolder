@@ -1,0 +1,253 @@
+{
+  "best-product": [
+    {
+      "id": 1,
+      "kode": "K01",
+      "nama": "blushon",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "blushon.png"
+    },
+    {
+      "id": 2,
+      "kode": "K02",
+      "nama": "brush",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "brush.png"
+    },
+    {
+      "id": 2,
+      "kode": "K02",
+      "nama": "brush",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "brush.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K01",
+      "nama": "blushon",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "blushon.png"
+    },
+    {
+      "id": 2,
+      "kode": "K02",
+      "nama": "brush",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "brush.png"
+    },
+    {
+      "id": 3,
+      "kode": "K03",
+      "nama": "concealer",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "concealer.png"
+    },
+    {
+      "id": 4,
+      "kode": "K04",
+      "nama": "deodorant",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "deodorant.png"
+    },
+    {
+      "id": 5,
+      "kode": "K05",
+      "nama": "lotion",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "lotion.png"
+    },
+    {
+      "id": 6,
+      "kode": "K06",
+      "nama": "makeup",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "makeup.png"
+    },
+    {
+      "id": 7,
+      "kode": "K07",
+      "nama": "mascara",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "mascara.png"
+    },
+    {
+      "id": 8,
+      "kode": "K08",
+      "nama": "nightcream",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "nightcream.png"
+    },
+    {
+      "id": 9,
+      "kode": "K09",
+      "nama": "skincare",
+      "harga": 70000,
+      "is_ready": true,
+      "gambar": "skincare.png"
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah": 1,
+      "products": {
+        "id": 1,
+        "kode": "K01",
+        "nama": "blushon",
+        "harga": 70000,
+        "is_ready": true,
+        "gambar": "blushon.png"
+      },
+      "id": 1
+    },
+    {
+      "jumlah": 2,
+      "products": {
+        "id": 2,
+        "kode": "K02",
+        "nama": "brush",
+        "harga": 70000,
+        "is_ready": true,
+        "gambar": "brush.png"
+      },
+      "id": 2
+    }
+  ],
+  "pesanans": [
+    {
+      "nama": "maya",
+      "noMeja": "12",
+      "keranjang": [
+        {
+          "jumlah": 1,
+          "products": {
+            "id": 1,
+            "kode": "K01",
+            "nama": "blushon",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "blushon.png"
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "products": {
+            "id": 3,
+            "kode": "K03",
+            "nama": "concealer",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "concealer.png"
+          },
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "sds",
+      "noAntrian": "2",
+      "keranjang": [
+        {
+          "jumlah": 1,
+          "keterangan": "sdfsdf",
+          "dataProduct": {
+            "id": 1,
+            "kode": "K01",
+            "nama": "blushon",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "blushon.png"
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 3,
+          "keterangan": "",
+          "dataProduct": {
+            "id": 2,
+            "kode": "K02",
+            "nama": "brush",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "brush.png"
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 2,
+          "keterangan": "vcv",
+          "dataProduct": {
+            "id": 1,
+            "kode": "K01",
+            "nama": "blushon",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "blushon.png"
+          },
+          "id": 4
+        },
+        {
+          "jumlah": 1,
+          "keterangan": "blush On",
+          "dataProduct": {
+            "id": 1,
+            "kode": "K01",
+            "nama": "blushon",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "blushon.png"
+          },
+          "id": 6
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "daniel",
+      "noMeja": "30",
+      "keranjang": [
+        {
+          "jumlah": "",
+          "keterangan": "",
+          "products": {
+            "id": 1,
+            "kode": "K01",
+            "nama": "blushon",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "blushon.png"
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "keterangan": "beige",
+          "products": {
+            "id": 3,
+            "kode": "K03",
+            "nama": "concealer",
+            "harga": 70000,
+            "is_ready": true,
+            "gambar": "concealer.png"
+          },
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
